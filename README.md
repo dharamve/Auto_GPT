@@ -206,24 +206,6 @@ Looking for the original standalone AutoGPT agent? It remains available in [`cla
 
 ---
 
-## Contributors
 
-<a href="https://github.com/Significant-Gravitas/AutoGPT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Significant-Gravitas/AutoGPT&max=1000&columns=10" alt="AutoGPT contributors" />
-</a>
-
-<p align="center">
-  <a href="https://platform.agpt.co/signup?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=autogpt_readme&amp;utm_content=footer_get_started"><strong>Get started with AutoGPT →</strong></a>
-</p>
-
----
-
-<!-- Keep these links. Translations will automatically update with the README. -->
-[Deutsch](https://zdoc.app/de/Significant-Gravitas/AutoGPT) |
-[Español](https://zdoc.app/es/Significant-Gravitas/AutoGPT) |
-[français](https://zdoc.app/fr/Significant-Gravitas/AutoGPT) |
-[日本語](https://zdoc.app/ja/Significant-Gravitas/AutoGPT) |
-[한국어](https://zdoc.app/ko/Significant-Gravitas/AutoGPT) |
-[Português](https://zdoc.app/pt/Significant-Gravitas/AutoGPT) |
 [Русский](https://zdoc.app/ru/Significant-Gravitas/AutoGPT) |
 [中文](https://zdoc.app/zh/Significant-Gravitas/AutoGPT)
