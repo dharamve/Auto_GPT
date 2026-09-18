@@ -196,16 +196,6 @@ Connect the apps that are yours. AutoGPT provides access to hundreds of AI model
 
 ---
 
-## AutoGPT Classic
-
-Looking for the original standalone AutoGPT agent? It remains available in [`classic/`](classic/) under the MIT License.
-
-- [Build an agent with Forge](classic/FORGE-QUICKSTART.md)
-- [Benchmark an agent with `agbenchmark`](https://pypi.org/project/agbenchmark/)
-- [Explore the Classic project](classic/README.md)
-
----
-
 
 [Русский](https://zdoc.app/ru/Significant-Gravitas/AutoGPT) |
 [中文](https://zdoc.app/zh/Significant-Gravitas/AutoGPT)
